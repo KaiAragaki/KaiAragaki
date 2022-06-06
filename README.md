@@ -1,3 +1,4 @@
+```
 ### Your friendly R goblin
 
 Hello! I'm Kai (he/him)
@@ -17,3 +18,4 @@ I like:
 For more info:
 * Visit my [website](https://kaioinformatics.netlify.app/)
 * Follow me on twitter: @kaioinformatics
+```
