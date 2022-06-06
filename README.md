@@ -1,19 +1,18 @@
-### Your friendly R goblin
+### Your buddy Kai (he/him)
 
-Hello! I'm Kai (he/him)
-
-I am a:
+####  🤹🏻 Skills and Education
 * 5th year Pharmacology PhD candidate @ Johns Hopkins
-* 6 year relationship with R/Tidyverse/Shiny/etc/etc/etc...
-* 6 year relationship with pipettes/cell culture/western blots/pcr/etc/etc/etc...
+* 7yrs R/Tidyverse/Shiny/RMarkdown/targets/pkg dev/etc...
+* 7yrs pipettes/cell culture/spheroids/westerns/PCR/etc...
+* Still learning all the time
 
-I like:
+#### ❤️ Interests
 * Hyper-reproducible science
 * Bioinformatics
 * Making packages to bridge the bench-to-keyboard chasm
 * Moving expensive little liquids around
 * Cats
 
-For more info:
-* Visit my [website](https://kaioinformatics.netlify.app/)
-* Follow me on twitter: @kaioinformatics
+[Website](https://kaioinformatics.netlify.app/)
+
+🐦 @kaioinformatics
