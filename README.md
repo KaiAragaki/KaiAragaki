@@ -1,8 +1,8 @@
 ### Your buddy Kai (he/him)
 
 ####  🤹🏻 Skills and Education
-* 5th year Pharmacology PhD candidate @ Johns Hopkins
-* 7yrs R/Tidyverse/Bioconductor/Shiny/RMarkdown/targets/pkg dev/etc...
+* 4th year Pharmacology PhD candidate @ Johns Hopkins
+* 6yrs R/Tidyverse/Bioconductor/Shiny/RMarkdown/targets/pkg dev/etc...
 * 7yrs pipettes/cell culture/spheroids/westerns/PCR/etc...
 * Still learning all the time
 
