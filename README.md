@@ -16,6 +16,4 @@
 
 [Website](https://kaioinformatics.netlify.app/)
 
-🐦 @kaioinformatics
-
 <a rel="me" href="https://fosstodon.org/@kaio">Mastodon</a>
