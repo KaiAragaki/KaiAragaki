@@ -13,7 +13,3 @@
 * Making packages to bridge the bench-to-keyboard chasm
 * Moving expensive little liquids around
 * Cats
-
-[Website](https://kaioinformatics.netlify.app/)
-
-<a rel="me" href="https://fosstodon.org/@kaio">Mastodon</a>
