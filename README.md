@@ -1,7 +1,7 @@
 ### Your buddy Kai (he/him)
 
 ####  🤹🏻 Skills and Education
-* 7th year Pharmacology PhD candidate @ Johns Hopkins
+* PhD Pharmacology @ Johns Hopkins
 * BS Biochemistry + Molecular & Cellular Biology @ University of Arizona
 * 8yrs R/Tidyverse/Bioconductor/Shiny/RMarkdown/targets/pkg dev/etc...
 * 8yrs pipettes/cell culture/spheroids/westerns/PCR/etc...
