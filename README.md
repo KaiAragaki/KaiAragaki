@@ -1,6 +1,7 @@
 ### Your buddy Kai (he/him)
 
 ####  🤹🏻 Skills and Education
+* Postdoc @ Lund University <- currently
 * PhD Pharmacology @ Johns Hopkins
 * BS Biochemistry + Molecular & Cellular Biology @ University of Arizona
 * 8yrs R/Tidyverse/Bioconductor/Shiny/RMarkdown/targets/pkg dev/etc...
